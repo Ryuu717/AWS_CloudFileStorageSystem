@@ -1,0 +1,31 @@
+.file-card {
+    margin-bottom: 20px;
+}
+
+.container {
+    max-width: 700px;
+}
+
+.file-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn-group {
+    display: flex;
+}
+
+.btn-group form {
+    margin-left: 10px;
+}
+
+.form-inline-custom {
+    display: flex;
+    justify-content: space-between; /* Spread the items */
+    align-items: center;
+}
+
+.form-inline-custom .form-control-file {
+    margin-right: 10px;
+}
